@@ -1,6 +1,6 @@
 # Studio
 
-A CAD app for Mac and Windows with AI built in. See how it works, with screenshots: [studio-for-mac.vercel.app](https://studio-for-mac.vercel.app)
+A CAD app for Mac and Windows with AI built in. See how it works, with screenshots: [texttocad.studio](https://texttocad.studio)
 
 ## Mac
 
@@ -23,3 +23,4 @@ A CAD app for Mac and Windows with AI built in. See how it works, with screensho
 Studio updates itself. When a new version is out, an update button shows in its sidebar: click it to download the update, then click it again to restart. On a Mac, a copy from before 0.1.2 needs this download once.
 
 Studio is in early testing.
+
