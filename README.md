@@ -6,9 +6,10 @@ A CAD app for Mac and Windows with AI built in. See how it works, with screensho
 
 **[Download Studio for Mac](https://github.com/amywork777/studio-download/releases/latest/download/Studio-arm64.dmg)** (Apple silicon, M1 or newer)
 
-1. Open the download and drag Studio into Applications.
-2. Open Studio. The first time, macOS says it came from the internet and that Apple checked it: click Open.
-3. On Studio's first screen, sign in to Claude or ChatGPT with your own subscription. Have an invite code instead? Click **Use an invite code** there and paste it (Studio 0.1.4 or newer).
+1. If you have never installed Apple's developer tools, open Terminal and run `xcode-select --install`. They include Git, and Studio keeps your versions with it.
+2. Open the download and drag Studio into Applications.
+3. Open Studio. The first time, macOS says it came from the internet and that Apple checked it: click Open.
+4. On Studio's first screen, sign in to Claude or ChatGPT with your own subscription. Have an invite code instead? Click **Use an invite code** there and paste it (Studio 0.1.4 or newer).
 
 ## Windows
 
@@ -23,4 +24,5 @@ A CAD app for Mac and Windows with AI built in. See how it works, with screensho
 Studio updates itself. When a new version is out, an update button shows in its sidebar: click it to download the update, then click it again to restart. On a Mac, a copy from before 0.1.2 needs this download once.
 
 Studio is in early testing.
+
 
